@@ -1,0 +1,2 @@
+# autorizar
+chequear auth
